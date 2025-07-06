@@ -47,7 +47,7 @@ pkg install python -y
 pip install requests bs4
 git clone https://github.com/karndeepbaror/XToolSuite
 cd XToolSuite
-python XToolSuite_Matrix_v1.py
+python XToolSuite.py
 ```
 
 ---
