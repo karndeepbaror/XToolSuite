@@ -55,7 +55,7 @@ python XToolSuite.py
 ## 👨‍💻 Developer Info
 
 - 👤 Name: Karndeep Baror  
-- 📲 Telegram: [@karnd33p](https://t.me/karnd33p)
+- 📲 Instagram: [@karndeepbaror](https:/www.instagram.com/karndeepbaror)
 
 ---
 
